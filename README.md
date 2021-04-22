@@ -5,7 +5,7 @@ its inherited from UIScrollView to show a clickable content and display like Ric
 
 ### Demo
 
-<img src="/Users/user/Library/Application Support/typora-user-images/image-20210423024624750.png" alt="image-20210423024624750" style="zoom:50%;" />
+<img src="https://user-images.githubusercontent.com/35450350/115772093-4bd2b000-a3e1-11eb-819f-77a9c7e8325f.png" style="zoom:50%;" />
 
 ## Intalling
 
@@ -25,11 +25,11 @@ Run `pod install`, and you are all set.
 
   1、Download the release, and copy into your project under the `Frameworks` dir.
 
-  <img src="/Users/user/Library/Application Support/typora-user-images/image-20210423021833775.png" alt="image-20210423021833775" style="zoom:50%;" />
+  <img src="https://user-images.githubusercontent.com/35450350/115772221-6e64c900-a3e1-11eb-9b61-85e47387eaca.png" style="zoom:50%;" />
 
   2、Add the framework
 
-  ![image-20210423021457844](/Users/user/Library/Application Support/typora-user-images/image-20210423021457844.png)
+  <img src="https://user-images.githubusercontent.com/35450350/115772317-89373d80-a3e1-11eb-94df-c5f8c0307689.png" style="zoom:50%;" />
 
 
 
