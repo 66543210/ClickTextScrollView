@@ -5,7 +5,7 @@ its inherited from UIScrollView to show a clickable content and display like Ric
 
 ### Demo
 
-<img src="https://user-images.githubusercontent.com/35450350/115772093-4bd2b000-a3e1-11eb-819f-77a9c7e8325f.png" style="zoom:50%;" />
+<img src="https://user-images.githubusercontent.com/35450350/115772093-4bd2b000-a3e1-11eb-819f-77a9c7e8325f.png" style="zoom:25%;" />
 
 ## Intalling
 
@@ -25,7 +25,7 @@ Run `pod install`, and you are all set.
 
   1、Download the release, and copy into your project under the `Frameworks` dir.
 
-  <img src="https://user-images.githubusercontent.com/35450350/115772221-6e64c900-a3e1-11eb-9b61-85e47387eaca.png" style="zoom:50%;" />
+  <img src="https://user-images.githubusercontent.com/35450350/115772221-6e64c900-a3e1-11eb-9b61-85e47387eaca.png" style="zoom:30%;" />
 
   2、Add the framework
 
