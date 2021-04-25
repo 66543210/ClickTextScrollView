@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "ClickTextScrollView"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.summary      = "A short description of ClickTextScrollView."
 
   # This description is used to generate tags and improve search results.
@@ -91,7 +91,7 @@ The custom view inherited from UIScrollView provides an easy-to-use scrollable t
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "ClickTextScrollView/**/*.{h,m}"
+  spec.source_files  = "ClickTextScrollView/**/*.{h}"
   # spec.exclude_files = "Classes/Exclude"
 
   # spec.public_header_files = "Classes/**/*.h"
